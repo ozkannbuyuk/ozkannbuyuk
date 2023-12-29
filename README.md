@@ -1,10 +1,14 @@
 <br clear="both">
 
-<img align="right" height="188" src="https://ozkanbuyuk.com/ozkanbuyuk.gif"  />
+<img align="right" height="200" src="https://ozkanbuyuk.com/ozkanbuyuk.gif"  />
 
 ###
 
-<h4 align="left">👋 Hi, I'm Özkan Büyük</h4>
+<h3 align="left">👋 Hi, I'm Özkan Büyük</h3>
+
+###
+
+<p align="left">I'am a Full-Stack Developer</p>
 
 ###
 
@@ -12,11 +16,11 @@
 
 ###
 
-<p align="left">📧 info@ozkanbuyuk.com<br>👉 ozkanbuyuk.com<br>👉 patisas.com<br>👉 pikilab.com<br>👉 softboxturkiye.com<br>👉 piki.games<br>👉 cineturkey.com<br>👉 fullyakit.com<br>👉 beepiki.com</p>
+<p align="left">Projects:<br><br>📧 info@ozkanbuyuk.com<br>👉 ozkanbuyuk.com<br>👉 patisas.com<br>👉 pikilab.com<br>👉 softboxturkiye.com<br>👉 piki.games<br>👉 cineturkey.com<br>👉 fullyakit.com<br>👉 beepiki.com</p>
 
 ###
 
-<p align="center">I'am a Full-Stack Developer</p>
+<p align="left">Connect with me:<br><br>📧 info@ozkanbuyuk.com</p>
 
 ###
 
@@ -28,7 +32,7 @@
 
 ###
 
-<p align="left">🖥 Front-End</p>
+<p align="left">Some of the skills I have worked on in over 10 years of experience:<br><br>🖥 Front-End</p>
 
 ###
 
