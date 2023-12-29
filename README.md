@@ -1,10 +1,14 @@
-<div align="center">
-  <img height="250" src="https://ozkanbuyuk.com/ozkanbuyuk.gif"  />
-</div>
+<br clear="both">
+
+<img align="right" height="188" src="https://ozkanbuyuk.com/ozkanbuyuk.gif"  />
 
 ###
 
 <h4 align="left">👋 Hi, I'm Özkan Büyük</h4>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
