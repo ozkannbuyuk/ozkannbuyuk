@@ -12,15 +12,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I have over 10 years of experience in web and mobile development. Throughout this period, I have worked in software-focused companies and provided software support to clients individually. I started my software journey with Php and Java, and since then, I have developed numerous web and mobile applications.<br><br>📧 info@ozkanbuyuk.com</p>
 
 ###
 
-<p align="left">Projects:<br><br>📧 info@ozkanbuyuk.com<br>👉 ozkanbuyuk.com<br>👉 patisas.com<br>👉 pikilab.com<br>👉 softboxturkiye.com<br>👉 piki.games<br>👉 cineturkey.com<br>👉 fullyakit.com<br>👉 beepiki.com</p>
+<p align="left">Projects:<br><br>👉 ozkanbuyuk.com<br>👉 patisas.com<br>👉 pikilab.com<br>👉 softboxturkiye.com<br>👉 piki.games<br>👉 cineturkey.com<br>👉 fullyakit.com<br>👉 beepiki.com</p>
 
 ###
 
-<p align="left">Connect with me:<br><br>📧 info@ozkanbuyuk.com</p>
+<p align="left">Connect with me:</p>
 
 ###
 
