@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Projects:<br><br>👉 ozkanbuyuk.com<br>👉 patisas.com<br>👉 pikilab.com<br>👉 softboxturkiye.com<br>👉 piki.games<br>👉 cineturkey.com<br>👉 fullyakit.com<br>👉 beepiki.com</p>
+<p align="left">Projects:<br><br>👉 <a href="https://ozkanbuyuk.com" target="_blank">ozkanbuyuk.com</a><br>👉 <a href="https://patisas.com" target="_blank">patisas.com</a><br>👉 <a href="https://pikilab.com" target="_blank">pikilab.com</a><br>👉 <a href="https://softboxturkiye.com" target="_blank">softboxturkiye.com</a><br>👉 <a href="https://piki.games" target="_blank">piki.games</a><br>👉 <a href="https://cineturkey.com" target="_blank">cineturkey.com</a><br>👉 <a href="https://fullyakit.com" target="_blank">fullyakit.com</a><br>👉 <a href="https://beepiki.com" target="_blank">beepiki.com</a></p>
 
 ###
 
