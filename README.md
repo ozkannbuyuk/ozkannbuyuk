@@ -1,9 +1,5 @@
 <br clear="both">
 
-<img align="right" height="200" src="https://ozkanbuyuk.com/ozkanbuyuk.gif"  />
-
-###
-
 <h3 align="left">👋 Hi, I'm Özkan Büyük</h3>
 
 ###
@@ -12,11 +8,7 @@
 
 ###
 
-<p align="left">I have over 10 years of experience in web and mobile development. Throughout this period, I have worked in software-focused companies and provided software support to clients individually. I started my software journey with Php and Java, and since then, I have developed numerous web and mobile applications.<br><br>📧 <a href="mailto:info@ozkanbuyuk.com">info@ozkanbuyuk.com</a></p>
-
-###
-
-<p align="left">Projects:<br><br>👉 <a href="https://ozkanbuyuk.com" target="_blank">ozkanbuyuk.com</a><br>👉 <a href="https://patisas.com" target="_blank">patisas.com</a><br>👉 <a href="https://pikilab.com" target="_blank">pikilab.com</a><br>👉 <a href="https://softboxturkiye.com" target="_blank">softboxturkiye.com</a><br>👉 <a href="https://piki.games" target="_blank">piki.games</a><br>👉 <a href="https://cineturkey.com" target="_blank">cineturkey.com</a><br>👉 <a href="https://fullyakit.com" target="_blank">fullyakit.com</a><br>👉 <a href="https://beepiki.com" target="_blank">beepiki.com</a></p>
+<p align="left">I have over 10 years of experience in web and mobile development. Throughout this period, I have worked in software-focused companies and provided software support to clients individually. I started my software journey with Php and Java, and since then, I have developed numerous web and mobile applications.<br><br>📧 <a href="mailto:ozkanbuyuk@icloud.com">ozkanbuyuk@icloud.com</a></p>
 
 ###
 
