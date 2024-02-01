@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I have over 10 years of experience in web and mobile development. Throughout this period, I have worked in software-focused companies and provided software support to clients individually. I started my software journey with Php and Java, and since then, I have developed numerous web and mobile applications.<br><br>📧 <a href="mailto:ozkanbuyuk@icloud.com">ozkanbuyuk@icloud.com</a></p>
+<p align="left">I have over 10 years of experience in web and mobile development. Throughout this period, I have worked in software-focused companies and provided software support to clients individually. I started my software journey with Php and Java, and since then, I have developed numerous web and mobile applications.</p>
 
 ###
 
@@ -14,13 +14,13 @@
 
 ###
 
+<p align="left">📧 <a href="mailto:ozkanbuyuk@icloud.com">ozkanbuyuk@icloud.com</a></p><br>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/ozkanbuyuk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-<p align="left"><br><br>📧 <a href="mailto:ozkanbuyuk@icloud.com">ozkanbuyuk@icloud.com</a></p>
 
 ###
 
