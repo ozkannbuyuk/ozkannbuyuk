@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I have over 10 years of experience in web and mobile development. Throughout this period, I have worked in software-focused companies and provided software support to clients individually. I started my software journey with Php and Java, and since then, I have developed numerous web and mobile applications.</p>
+<p align="left">I have over 10 years of experience in web and mobile development. Throughout this period, I have worked in software-focused companies and provided software support to clients individually. I started my software journey with PHP and Java, and since then, I have developed numerous web and mobile applications.</p>
 
 ###
 
