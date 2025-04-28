@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I'm Özkan Büyük</h3>
+<h3 align="left">👋 Hi, I'm Özkan BÜYÜK</h3>
 
 ###
 
